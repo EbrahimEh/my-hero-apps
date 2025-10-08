@@ -1,6 +1,7 @@
 import React from 'react';
 import logoImg from '../../assets/logo.png'
 import { FaGithub } from "react-icons/fa6";
+import { Link, NavLink } from 'react-router';
 
 
 const Navbar = () => {
@@ -33,9 +34,29 @@ const Navbar = () => {
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <div role="tablist" className="tabs tabs-border">
-                        <a role="tab" className="tab">Home</a>
-                        <a role="tab" className="tab tab-active">Apps</a>
-                        <a role="tab" className="tab">Installation</a>
+                        <NavLink
+                            to='/'
+                            role="tab"
+                            className={({ isActive }) => isActive ? "tab tab-active" : "tab"}
+                        >
+                            Home
+                        </NavLink>
+
+                        <NavLink
+                            to='/apps'
+                            role="tab"
+                            className={({ isActive }) => isActive ? "tab tab-active" : "tab"}
+                        >
+                            Apps
+                        </NavLink>
+
+                        <NavLink
+                            to='/installation'
+                            role="tab"
+                            className={({ isActive }) => isActive ? "tab tab-active" : "tab"}
+                        >
+                            Installation
+                        </NavLink>
                     </div>
                 </div>
                 <div className="navbar-end">

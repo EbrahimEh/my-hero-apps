@@ -4,12 +4,12 @@ import { MdOutlineFileDownload } from "react-icons/md";
 
 const Trending = ({apps}) => {
     console.log(apps)
-    const {image, ratingAvg,downloads, companyName} = apps;
+    const {image, ratingAvg,downloads, title} = apps;
     return (
         <div className='w-[350px] h-[435px] shadow-lg rounded-lg p-3'>
             <div className=''>
                 <img className='object-cover rounded-lg pb-3 w-full h-[310px]' src={image} alt="" />
-                <h2 className='font-semibold'>{companyName}</h2>
+                <h2 className='font-semibold'>{title}</h2>
                 <div className='flex justify-between py-3'>
                     <div className='flex items-center rounded px-2 py-1 bg-[#e2fcf3] gap-x-1 font-semibold text-[#00D390]'><MdOutlineFileDownload />
                         <span>{downloads}</span>M
