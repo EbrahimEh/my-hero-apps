@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113",
+    "title": "Photo Editor Pro",
+    "companyName": "Creative Labs",
+    "id": 1,
+    "description": "Professional photo editing app with advanced filters and AI tools for perfect pictures every time.",
+    "size": 145,
+    "reviews": 12500,
+    "ratingAvg": 4.7,
+    "downloads": 2.5,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1250 },
+      { "name": "4 star", "count": 3750 },
+      { "name": "5 star", "count": 7050 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
+    "title": "Finance Tracker",
+    "companyName": "MoneyMatters Inc",
+    "id": 2,
+    "description": "Manage your expenses, track investments and plan your budget with intuitive financial tools.",
+    "size": 89,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": 1.5,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1420 },
+      { "name": "4 star", "count": 3560 },
+      { "name": "5 star", "count": 3390 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
+    "title": "Fitness Coach",
+    "companyName": "HealthTech Solutions",
+    "id": 3,
+    "description": "Personalized workout plans and diet tracking to help you achieve your fitness goals.",
+    "size": 112,
+    "reviews": 23400,
+    "ratingAvg": 4.8,
+    "downloads": 3.2,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 1870 },
+      { "name": "4 star", "count": 4680 },
+      { "name": "5 star", "count": 16490 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
+    "title": "Language Learn",
+    "companyName": "EduTech Global",
+    "id": 4,
+    "description": "Learn new languages with interactive lessons, speech recognition and native speaker audio.",
+    "size": 156,
+    "reviews": 17800,
+    "ratingAvg": 4.6,
+    "downloads": 2.8,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 2130 },
+      { "name": "4 star", "count": 5340 },
+      { "name": "5 star", "count": 9710 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0",
+    "title": "Music Stream",
+    "companyName": "SoundWave Entertainment",
+    "id": 5,
+    "description": "Stream millions of songs, create playlists and discover new music tailored to your taste.",
+    "size": 203,
+    "reviews": 45600,
+    "ratingAvg": 4.9,
+    "downloads": 5.8,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 2280 },
+      { "name": "4 star", "count": 9120 },
+      { "name": "5 star", "count": 33930 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
+    "title": "Recipe Master",
+    "companyName": "Kitchen Innovations",
+    "id": 6,
+    "description": "Discover thousands of recipes with step-by-step video guides and shopping list features.",
+    "size": 78,
+    "reviews": 6700,
+    "ratingAvg": 4.4,
+    "downloads": 1.2,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 470 },
+      { "name": "3 star", "count": 1340 },
+      { "name": "4 star", "count": 2680 },
+      { "name": "5 star", "count": 1990 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
+    "title": "Weather Pro",
+    "companyName": "Climate Data Systems",
+    "id": 7,
+    "description": "Accurate weather forecasts, severe weather alerts and detailed meteorological data.",
+    "size": 45,
+    "reviews": 34200,
+    "ratingAvg": 4.3,
+    "downloads": 4.2,
+    "ratings": [
+      { "name": "1 star", "count": 850 },
+      { "name": "2 star", "count": 1020 },
+      { "name": "3 star", "count": 5130 },
+      { "name": "4 star", "count": 10260 },
+      { "name": "5 star", "count": 16940 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113",
+    "title": "Task Manager",
+    "companyName": "Productivity Plus",
+    "id": 8,
+    "description": "Organize your tasks, set reminders and collaborate with teams for maximum productivity.",
+    "size": 67,
+    "reviews": 15600,
+    "ratingAvg": 4.7,
+    "downloads": 1.9,
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 1560 },
+      { "name": "4 star", "count": 4680 },
+      { "name": "5 star", "count": 8920 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
+    "title": "Meditation Guide",
+    "companyName": "Mindful Living",
+    "id": 9,
+    "description": "Guided meditation sessions, sleep stories and mindfulness exercises for mental wellness.",
+    "size": 92,
+    "reviews": 8900,
+    "ratingAvg": 4.8,
+    "downloads": 1.6,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 2670 },
+      { "name": "5 star", "count": 5090 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0",
+    "title": "Travel Planner",
+    "companyName": "Wanderlust Tech",
+    "id": 10,
+    "description": "Plan your trips, book flights and hotels, and discover hidden gems around the world.",
+    "size": 134,
+    "reviews": 12300,
+    "ratingAvg": 4.5,
+    "downloads": 2.1,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 490 },
+      { "name": "3 star", "count": 1840 },
+      { "name": "4 star", "count": 4920 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
+    "title": "Code Editor Mobile",
+    "companyName": "DevTools Inc",
+    "id": 11,
+    "description": "Write and run code in multiple programming languages directly from your mobile device.",
+    "size": 187,
+    "reviews": 5600,
+    "ratingAvg": 4.2,
+    "downloads": 0.85,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 1120 },
+      { "name": "4 star", "count": 2240 },
+      { "name": "5 star", "count": 1720 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113",
+    "title": "Social Connect",
+    "companyName": "Social Network Ltd",
+    "id": 12,
+    "description": "Connect with friends, share moments and join communities with enhanced privacy features.",
+    "size": 165,
+    "reviews": 78900,
+    "ratingAvg": 4.1,
+    "downloads": 6.5,
+    "ratings": [
+      { "name": "1 star", "count": 2360 },
+      { "name": "2 star", "count": 4720 },
+      { "name": "3 star", "count": 15780 },
+      { "name": "4 star", "count": 31560 },
+      { "name": "5 star", "count": 24480 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
+    "title": "PDF Reader Pro",
+    "companyName": "Document Solutions",
+    "id": 13,
+    "description": "Advanced PDF reader with annotation tools, form filling and secure document signing.",
+    "size": 76,
+    "reviews": 23400,
+    "ratingAvg": 4.6,
+    "downloads": 3.8,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 470 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 9360 },
+      { "name": "5 star", "count": 10580 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0",
+    "title": "Gaming Hub",
+    "companyName": "GameSphere Studios",
+    "id": 14,
+    "description": "Collection of casual games with daily challenges, achievements and multiplayer options.",
+    "size": 245,
+    "reviews": 45200,
+    "ratingAvg": 4.4,
+    "downloads": 5.2,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 9040 },
+      { "name": "4 star", "count": 18080 },
+      { "name": "5 star", "count": 15380 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
+    "title": "News Aggregator",
+    "companyName": "Media Insights",
+    "id": 15,
+    "description": "Personalized news feed from trusted sources with offline reading and audio articles.",
+    "size": 58,
+    "reviews": 16700,
+    "ratingAvg": 4.3,
+    "downloads": 2.7,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 830 },
+      { "name": "3 star", "count": 3340 },
+      { "name": "4 star", "count": 6680 },
+      { "name": "5 star", "count": 5430 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113",
+    "title": "Shopping Assistant",
+    "companyName": "Retail AI Solutions",
+    "id": 16,
+    "description": "AI-powered shopping companion that finds best deals and compares prices across stores.",
+    "size": 103,
+    "reviews": 9800,
+    "ratingAvg": 4.7,
+    "downloads": 1.4,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 2940 },
+      { "name": "5 star", "count": 5490 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
+    "title": "Health Monitor",
+    "companyName": "Wellness Tech",
+    "id": 17,
+    "description": "Track vital signs, medication schedules and connect with healthcare professionals.",
+    "size": 121,
+    "reviews": 5600,
+    "ratingAvg": 4.9,
+    "downloads": 0.95,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 1120 },
+      { "name": "5 star", "count": 4110 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0",
+    "title": "Video Converter",
+    "companyName": "Media Tools Pro",
+    "id": 18,
+    "description": "Convert videos between formats, compress files and edit videos with simple tools.",
+    "size": 198,
+    "reviews": 12300,
+    "ratingAvg": 4.0,
+    "downloads": 1.8,
+    "ratings": [
+      { "name": "1 star", "count": 370 },
+      { "name": "2 star", "count": 740 },
+      { "name": "3 star", "count": 2460 },
+      { "name": "4 star", "count": 4920 },
+      { "name": "5 star", "count": 3810 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
+    "title": "Learning Platform",
+    "companyName": "EduTech Masters",
+    "id": 19,
+    "description": "Online courses from top universities with certificates and interactive learning materials.",
+    "size": 167,
+    "reviews": 28900,
+    "ratingAvg": 4.8,
+    "downloads": 4.1,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 430 },
+      { "name": "3 star", "count": 2310 },
+      { "name": "4 star", "count": 9240 },
+      { "name": "5 star", "count": 16770 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113",
+    "title": "Security VPN",
+    "companyName": "CyberSafe Networks",
+    "id": 20,
+    "description": "Secure your internet connection with military-grade encryption and global servers.",
+    "size": 82,
+    "reviews": 34500,
+    "ratingAvg": 4.6,
+    "downloads": 4.9,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 690 },
+      { "name": "3 star", "count": 4140 },
+      { "name": "4 star", "count": 13800 },
+      { "name": "5 star", "count": 15520 }
+    ]
+  }
+]

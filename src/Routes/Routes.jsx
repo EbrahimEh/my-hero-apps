@@ -4,6 +4,7 @@ import Home from "../Pages/Home/Home";
 
 
 export const router = createBrowserRouter([
+
     {
         path: '/',
         Component: Root,
@@ -11,6 +12,7 @@ export const router = createBrowserRouter([
             {
                 index: true,
                 path: '/',
+                loader: () => fetch('/trending.json'),
                 Component: Home
             }
         ]
