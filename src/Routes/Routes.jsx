@@ -2,6 +2,7 @@ import { createBrowserRouter } from "react-router";
 import Root from "../Root/Root";
 import Home from "../Pages/Home/Home";
 import Apps from "../Pages/Apps/Apps";
+import BookDetails from "../Pages/AppDetails/AppDetails";
 
 
 export const router = createBrowserRouter([
@@ -18,7 +19,13 @@ export const router = createBrowserRouter([
             },
             {
                 path: '/apps',
+                loader: () => fetch('/all-apps.json'),
                 Component: Apps
+            },
+            {
+                path: '/bookDetails/:id',
+                loader: () => fetch('/all-apps.json'),
+                Component: BookDetails
             }
         ]
     }

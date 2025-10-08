@@ -10,7 +10,7 @@ const TrendingApps = ({trend}) => {
             <p className='text-center mt-3 mb-8 text-[#627382]'>Explore All Trending Apps on the Market developed by us</p>
             <div className='grid md:grid-cols-4 gap-x-5 gap-y-5'>
                 {
-                    trend.map(apps => <Trending apps={apps}></Trending>)
+                    trend.map(apps => <Trending key={apps.id} apps={apps}></Trending>)
                 }
             </div>
             <div className='flex justify-center md:mt-10'>

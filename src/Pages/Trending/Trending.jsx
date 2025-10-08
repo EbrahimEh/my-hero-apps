@@ -3,7 +3,7 @@ import { IoStar } from "react-icons/io5";
 import { MdOutlineFileDownload } from "react-icons/md";
 
 const Trending = ({apps}) => {
-    console.log(apps)
+    // console.log(apps)
     const {image, ratingAvg,downloads, title} = apps;
     return (
         <div className='w-[350px] h-[435px] shadow-lg rounded-lg p-3'>

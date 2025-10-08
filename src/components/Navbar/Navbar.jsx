@@ -6,7 +6,7 @@ import { Link, NavLink } from 'react-router';
 
 const Navbar = () => {
     return (
-        <div className='w-full mx-auto fixed top-0 left-0 shadow'>
+        <div className='w-full bg-white mx-auto fixed top-0 left-0 shadow'>
             <div className="navbar w-[1440px] mx-auto bg-base-100">
                 <div className="navbar-start">
                     <div className="dropdown">
