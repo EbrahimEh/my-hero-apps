@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.gra-clr{
+    background: linear-gradient(to right , #632EE3 , #9F62F2);
+}
+.clr{
+    
+    color: #632EE3;
+}
