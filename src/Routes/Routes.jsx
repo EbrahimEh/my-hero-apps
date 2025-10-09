@@ -12,13 +12,14 @@ export const router = createBrowserRouter([
     {
         path: '/',
         Component: Root,
-        errorElement: <ErrorPage></ErrorPage>,
+        
         children: [
             {
                 index: true,
                 path: '/',
                 loader: () => fetch('/trending.json'),
                 Component: Home
+                
             },
             {
                 path: '/apps',
@@ -32,9 +33,11 @@ export const router = createBrowserRouter([
             },
             {
                 path: '/installation',
+                loader: () => fetch('/all-apps.json'),
                 Component: Installation
 
-            }
+            },
+            
         ]
     }
 ])
