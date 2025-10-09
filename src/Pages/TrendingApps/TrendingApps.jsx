@@ -1,9 +1,10 @@
 import React from 'react';
 import Trending from '../Trending/Trending';
+import { NavLink } from 'react-router';
 
-const TrendingApps = ({trend}) => {
+const TrendingApps = ({ trend }) => {
     // console.log(trend)
-    
+
     return (
         <div className='md:mt-10 md:mb-10'>
             <h1 className='text-4xl font-bold text-center'>Trending Apps</h1>
@@ -13,9 +14,11 @@ const TrendingApps = ({trend}) => {
                     trend.map(apps => <Trending key={apps.id} apps={apps}></Trending>)
                 }
             </div>
-            <div className='flex justify-center md:mt-10'>
-                <button className='btn gra-clr px-8 text-white'>Show All</button>
-            </div>
+            <NavLink to='/apps'>
+                <div className='flex justify-center md:mt-10'>
+                    <button className='btn gra-clr px-8 text-white'>Show All</button>
+                </div>
+            </NavLink>
         </div>
     );
 };

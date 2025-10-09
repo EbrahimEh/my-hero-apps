@@ -6,7 +6,7 @@ import { Link, NavLink } from 'react-router';
 
 const Navbar = () => {
     return (
-        <div className='w-full bg-white mx-auto fixed top-0 left-0 shadow'>
+        <div className='w-full bg-white mx-auto z-50 fixed top-0 left-0 shadow'>
             <div className="navbar w-[1440px] mx-auto bg-base-100">
                 <div className="navbar-start">
                     <div className="dropdown">
@@ -27,10 +27,12 @@ const Navbar = () => {
                             <li><a>Item 3</a></li>
                         </ul>
                     </div>
-                    <div className='flex items-center'>
-                        <img className='w-[40px] h-[40px]' src={logoImg} alt="" />
-                        <h2 className='clr font-bold ml-1 text-lg'>Hero.IO</h2>
-                    </div>
+                    <NavLink to="/">
+                        <div className='flex items-center'>
+                            <img className='w-[40px] h-[40px]' src={logoImg} alt="" />
+                            <h2 className='clr font-bold ml-1 text-lg'>Hero.IO</h2>
+                        </div>
+                    </NavLink>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <div role="tablist" className="tabs tabs-border">

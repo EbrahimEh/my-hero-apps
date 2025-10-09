@@ -6,7 +6,7 @@ import { Link } from 'react-router';
 const AllApps = ({app}) => {
     const {image,id, ratingAvg,downloads, title} = app;
         return (
-            <Link to={`/bookDetails/${id}`}>
+            <Link to={`/appDetails/${id}`}>
             <div className='w-[350px] h-[435px] shadow-lg rounded-lg p-3 md:mt-6'>
                 <div className=''>
                     <img className='object-cover rounded-lg pb-3 w-full h-[310px]' src={image} alt="" />

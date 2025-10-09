@@ -1,146 +1,146 @@
 [
   {
-    "image": "https://img.icons8.com/?size=100&id=TFk2EC8efhPx&format=png&color=000000",
-    "title": "Photo Editor Pro",
-    "companyName": "Creative Labs",
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400&h=300&fit=crop",
+    "title": "Focus Timer Pro",
+    "companyName": "Productivity Labs",
     "id": 1,
-    "description": "Professional photo editing app with advanced filters and AI tools for perfect pictures every time.",
-    "size": 145,
-    "reviews": 12500,
-    "ratingAvg": 4.7,
-    "downloads": 2.5,
-    "ratings": [
-      { "name": "1 star", "count": 150 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 1250 },
-      { "name": "4 star", "count": 3750 },
-      { "name": "5 star", "count": 7050 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
-    "title": "Finance Tracker",
-    "companyName": "MoneyMatters Inc",
-    "id": 2,
-    "description": "Manage your expenses, track investments and plan your budget with intuitive financial tools.",
-    "size": 89,
-    "reviews": 8900,
-    "ratingAvg": 4.5,
-    "downloads": 1.5,
-    "ratings": [
-      { "name": "1 star", "count": 180 },
-      { "name": "2 star", "count": 350 },
-      { "name": "3 star", "count": 1420 },
-      { "name": "4 star", "count": 3560 },
-      { "name": "5 star", "count": 3390 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
-    "title": "Fitness Coach",
-    "companyName": "HealthTech Solutions",
-    "id": 3,
-    "description": "Personalized workout plans and diet tracking to help you achieve your fitness goals.",
-    "size": 112,
-    "reviews": 23400,
+    "description": "This innovative focus application revolutionizes the classic Pomodoro technique by creating a comprehensive environment designed for deep, uninterrupted work in our modern digital age. Rather than simply providing a basic timer, it constructs an entire ecosystem that systematically minimizes distractions while maximizing your concentration capabilities. Users can customize both work and break intervals to match their personal rhythm, track daily session completion, and analyze detailed statistics about their focus patterns over extended periods. The interface features a minimalist and calming design that significantly reduces cognitive load, allowing you to devote all your mental resources to the task before you. Gentle, non-intrusive notifications seamlessly guide your workflow, indicating when to pause for restorative breaks and when to resume work, thus maintaining a healthy, sustainable balance between productivity and rest.\n\nA particularly powerful feature is the seamless integration of task management with timed sessions, enabling you to assign specific tasks to individual Pomodoro intervals for enhanced structure and organization. The sophisticated analytics dashboard reveals not just total time invested but also identifies which tasks demanded the most mental energy, providing invaluable insights for workflow optimization and efficiency improvement. For those who prefer an auditory focus aid, the app includes customizable background soundscapes featuring white noise, nature sounds, or instrumental music to create an ideal distraction-free atmosphere tailored to your preferences.\n\nThe application incorporates motivational psychology through achievement streaks and milestone rewards, transforming the focus process into an engaging, gamified experience that effectively combats procrastination. Completing consecutive Pomodoro sessions unlocks various achievements, generating a genuine sense of accomplishment that reinforces positive work habits. Whether you're preparing for crucial examinations, developing complex code, crafting written content, or managing professional responsibilities, this application adapts intelligently to your unique workflow requirements. By harmoniously blending precise focus tracking, intuitive task organization, and motivational reinforcement tools, this Pomodoro application ensures you work both smarter and more effectively. It functions as a personal cognitive trainer, consistently guiding you toward maintained discipline, regular mental refreshment, and sustained peak productivity throughout your entire day.",
+    "size": 87,
+    "reviews": 15600,
     "ratingAvg": 4.8,
     "downloads": 3.2,
     "ratings": [
       { "name": "1 star", "count": 120 },
       { "name": "2 star", "count": 240 },
-      { "name": "3 star", "count": 1870 },
+      { "name": "3 star", "count": 1560 },
       { "name": "4 star", "count": 4680 },
-      { "name": "5 star", "count": 16490 }
+      { "name": "5 star", "count": 9000 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
-    "title": "Language Learn",
-    "companyName": "EduTech Global",
-    "id": 4,
-    "description": "Learn new languages with interactive lessons, speech recognition and native speaker audio.",
-    "size": 156,
-    "reviews": 17800,
-    "ratingAvg": 4.6,
-    "downloads": 2.8,
-    "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 420 },
-      { "name": "3 star", "count": 2130 },
-      { "name": "4 star", "count": 5340 },
-      { "name": "5 star", "count": 9710 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0",
-    "title": "Music Stream",
-    "companyName": "SoundWave Entertainment",
-    "id": 5,
-    "description": "Stream millions of songs, create playlists and discover new music tailored to your taste.",
-    "size": 203,
-    "reviews": 45600,
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=400&h=300&fit=crop",
+    "title": "Mindful Meditation",
+    "companyName": "ZenTech Solutions",
+    "id": 2,
+    "description": "This comprehensive meditation platform transforms the ancient practice of mindfulness into an accessible, modern tool for mental wellness and emotional balance in our fast-paced world. Rather than offering generic meditation timers, it provides a structured pathway through guided sessions tailored to specific needs—whether reducing stress, improving sleep, enhancing focus, or cultivating self-compassion. Users can select from hundreds of guided meditations led by world-renowned instructors, track their consistency through detailed progress analytics, and customize session lengths to fit their schedule. The application's design embodies tranquility with soothing color palettes, minimalist interfaces, and harmonious sounds that immediately calm the nervous system and prepare the mind for practice.\n\nA distinctive feature is the personalized meditation journey that adapts to your emotional state and progress, using intelligent algorithms to recommend practices that address your current needs. The integrated mood tracker allows you to record your emotional state before and after each session, creating valuable data patterns about how different meditation types affect your wellbeing. For those struggling with sleep, the app includes specialized sleep stories, breathing exercises, and soundscapes scientifically designed to promote faster sleep onset and improved sleep quality through the night.\n\nThe platform incorporates community elements that allow users to join group meditation sessions, participate in mindfulness challenges, and share experiences with a supportive global community. This social dimension helps maintain motivation and creates a sense of shared purpose in the meditation journey. Advanced features include heart rate variability monitoring through integrated device sensors, providing biofeedback about your physiological state during meditation. Whether you're completely new to meditation or an experienced practitioner, the application scales to meet your level while gently encouraging growth and deeper practice. By combining expert guidance, personalized pathways, scientific tracking, and community support, this meditation app serves as a complete digital sanctuary for mental health, emotional resilience, and inner peace in our demanding modern lifestyle.",
+    "size": 124,
+    "reviews": 23400,
     "ratingAvg": 4.9,
-    "downloads": 5.8,
+    "downloads": 4.7,
     "ratings": [
       { "name": "1 star", "count": 90 },
       { "name": "2 star", "count": 180 },
-      { "name": "3 star", "count": 2280 },
-      { "name": "4 star", "count": 9120 },
-      { "name": "5 star", "count": 33930 }
+      { "name": "3 star", "count": 1170 },
+      { "name": "4 star", "count": 4680 },
+      { "name": "5 star", "count": 17280 }
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3",
-    "title": "Recipe Master",
-    "companyName": "Kitchen Innovations",
-    "id": 6,
-    "description": "Discover thousands of recipes with step-by-step video guides and shopping list features.",
-    "size": 78,
-    "reviews": 6700,
-    "ratingAvg": 4.4,
-    "downloads": 1.2,
-    "ratings": [
-      { "name": "1 star", "count": 220 },
-      { "name": "2 star", "count": 470 },
-      { "name": "3 star", "count": 1340 },
-      { "name": "4 star", "count": 2680 },
-      { "name": "5 star", "count": 1990 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1535223289827-42f1e9919769",
-    "title": "Weather Pro",
-    "companyName": "Climate Data Systems",
-    "id": 7,
-    "description": "Accurate weather forecasts, severe weather alerts and detailed meteorological data.",
-    "size": 45,
-    "reviews": 34200,
-    "ratingAvg": 4.3,
-    "downloads": 4.2,
-    "ratings": [
-      { "name": "1 star", "count": 850 },
-      { "name": "2 star", "count": 1020 },
-      { "name": "3 star", "count": 5130 },
-      { "name": "4 star", "count": 10260 },
-      { "name": "5 star", "count": 16940 }
-    ]
-  },
-  {
-    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113",
-    "title": "Task Manager",
-    "companyName": "Productivity Plus",
-    "id": 8,
-    "description": "Organize your tasks, set reminders and collaborate with teams for maximum productivity.",
-    "size": 67,
-    "reviews": 15600,
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop",
+    "title": "Language Master Pro",
+    "companyName": "Linguistic Innovations",
+    "id": 3,
+    "description": "This revolutionary language learning platform transcends traditional methods by creating an immersive, contextual, and scientifically-proven environment for acquiring new languages naturally and effectively. Instead of relying on rote memorization and disconnected vocabulary lists, it builds comprehensive understanding through authentic conversations, cultural context, and real-world usage scenarios. Learners engage with interactive stories, video dialogues with native speakers, and situational exercises that replicate actual language use in social, professional, and travel contexts. The adaptive learning engine continuously assesses your proficiency and customizes lesson difficulty, ensuring you're always challenged appropriately without becoming frustrated or bored.\n\nThe application's most innovative feature is its speech recognition technology that provides immediate, precise feedback on pronunciation, accent, and fluency, functioning as a personal language coach available 24/7. The vocabulary acquisition system employs spaced repetition algorithms that optimize memory retention while contextual learning ensures words are remembered through meaningful associations rather than isolated memorization. For comprehensive skill development, the platform offers separate dedicated modules for reading comprehension, writing composition, listening skills, and conversational practice—all integrated into a cohesive learning journey.\n\nCultural immersion represents a cornerstone of the methodology, with lessons incorporating authentic media, cultural insights, and social etiquette specific to each language's native speakers. This contextual understanding transforms language learning from an academic exercise into genuine cultural appreciation and practical communication capability. The platform includes live tutoring sessions with certified native-speaking instructors, conversation clubs with learners worldwide, and personalized feedback on writing assignments. Advanced learners can access specialized content for business communication, academic writing, or specific professional terminology. Whether you're preparing for international travel, career advancement, academic requirements, or personal enrichment, this application provides a complete ecosystem for language mastery that respects your individual learning style while leveraging cutting-edge educational technology to maximize your progress and fluency development.",
+    "size": 203,
+    "reviews": 18900,
     "ratingAvg": 4.7,
-    "downloads": 1.9,
+    "downloads": 5.1,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 1890 },
+      { "name": "4 star", "count": 5670 },
+      { "name": "5 star", "count": 10810 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&h=300&fit=crop",
+    "title": "Financial Freedom",
+    "companyName": "WealthBuild Technologies",
+    "id": 4,
+    "description": "This comprehensive financial management application represents a paradigm shift in personal finance, transforming complex financial concepts into actionable, understandable strategies for building long-term wealth and security. Rather than simply tracking expenses, it provides a holistic financial ecosystem that integrates budgeting, investment tracking, debt management, and retirement planning into a seamless user experience. Users can connect all their financial accounts for real-time net worth calculation, set customized savings goals with automated progress tracking, and receive intelligent recommendations for optimizing their financial health based on spending patterns and financial objectives.\n\nThe platform's most powerful feature is its predictive analytics engine that forecasts future financial scenarios based on current habits, helping users understand the long-term implications of their financial decisions today. The investment module provides portfolio analysis, risk assessment, and rebalancing suggestions while educating users about different investment strategies appropriate for their risk tolerance and time horizon. For debt management, the application creates optimized payoff plans using either avalanche or snowball methods, calculating interest savings and providing motivational milestones throughout the debt elimination journey.\n\nAdvanced security features include bank-level encryption, biometric authentication, and regular security audits to ensure complete protection of sensitive financial data. The educational component offers personalized financial literacy courses, investment tutorials, and expert articles tailored to the user's current financial knowledge and goals. Retirement planning tools project future income needs, analyze current savings rates, and suggest adjustments to ensure comfortable retirement years. Whether you're just starting your financial journey, managing complex investment portfolios, or planning for major life transitions, this application serves as a comprehensive financial co-pilot, providing the tools, insights, and guidance needed to achieve true financial freedom and security throughout all life stages.",
+    "size": 145,
+    "reviews": 27800,
+    "ratingAvg": 4.6,
+    "downloads": 4.3,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 560 },
+      { "name": "3 star", "count": 2780 },
+      { "name": "4 star", "count": 8340 },
+      { "name": "5 star", "count": 15840 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400&h=300&fit=crop",
+    "title": "Fitness Evolution",
+    "companyName": "HealthTech Dynamics",
+    "id": 5,
+    "description": "This revolutionary fitness platform redefines personal training by combining artificial intelligence, expert coaching, and community support to create truly personalized fitness journeys that deliver measurable results. Instead of offering generic workout plans, it builds custom training programs based on comprehensive assessments of your current fitness level, movement patterns, recovery capacity, and personal goals. The application continuously adapts your workout intensity, exercise selection, and recovery periods based on performance data, feedback, and progress markers, ensuring optimal stimulation without overtraining or plateaus.\n\nThe platform's standout feature is its motion capture technology that uses your device's camera to analyze exercise form in real-time, providing immediate corrective feedback to prevent injury and maximize effectiveness. The nutrition component goes beyond calorie counting to offer meal planning based on dietary preferences, metabolic testing results, and specific fitness objectives, with grocery list generation and recipe suggestions that make healthy eating convenient and sustainable. Recovery tracking includes sleep analysis, stress monitoring, and guided mobility sessions to ensure balanced development and prevent burnout.\n\nCommunity integration creates accountability through workout challenges, progress sharing, and virtual training sessions with friends or like-minded individuals worldwide. The achievement system recognizes consistency, personal records, and milestone accomplishments with meaningful rewards that maintain long-term motivation. Educational content includes exercise tutorials, nutrition guides, and recovery techniques taught by certified professionals. Advanced users can access specialized programs for sports performance, rehabilitation, or competition preparation. Whether you're beginning your fitness journey, returning after hiatus, or pursuing elite athletic performance, this application provides the intelligent guidance, comprehensive tracking, and motivational support needed to transform your physical health and maintain lifelong fitness habits in our increasingly sedentary modern lifestyle.",
+    "size": 198,
+    "reviews": 32500,
+    "ratingAvg": 4.8,
+    "downloads": 6.2,
     "ratings": [
       { "name": "1 star", "count": 130 },
-      { "name": "2 star", "count": 310 },
-      { "name": "3 star", "count": 1560 },
-      { "name": "4 star", "count": 4680 },
-      { "name": "5 star", "count": 8920 }
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 3250 },
+      { "name": "4 star", "count": 9750 },
+      { "name": "5 star", "count": 18720 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=400&h=300&fit=crop",
+    "title": "Creative Studio Pro",
+    "companyName": "Digital Art Labs",
+    "id": 6,
+    "description": "This professional-grade creative suite democratizes digital artistry by providing powerful design tools previously available only in expensive desktop software, now optimized for mobile devices with intuitive touch interfaces and cloud synchronization. Rather than offering limited mobile editing capabilities, it delivers a comprehensive creative workspace featuring advanced layer management, non-destructive editing, vector drawing tools, and professional typography controls that rival desktop applications. Artists can work seamlessly across devices, with projects automatically syncing between mobile, tablet, and desktop versions while maintaining full editing capability at each stage.\n\nThe application's most innovative feature is its AI-assisted creative tools that understand artistic intent, suggesting composition improvements, color harmonies, and stylistic enhancements while preserving the artist's creative vision and control. The brush engine simulates real-world media with astonishing accuracy, including watercolor bleeding, oil paint texture, charcoal grain, and ink flow dynamics, responding to pressure sensitivity and tilt on supported devices. For digital illustrators, the vector tools provide precision drawing with bezier curves, boolean operations, and live shape properties that remain fully editable throughout the design process.\n\nCollaboration features enable real-time co-editing with team members, version history tracking, and cloud-based asset libraries for consistent branding across projects. The export system supports professional formats including PSD, PDF, SVG, and various raster formats with customizable compression and resolution settings. Educational resources include tutorial galleries, technique demonstrations, and community challenges that help users develop their skills regardless of experience level. Whether creating social media graphics, professional illustrations, UI/UX designs, or personal artwork, this application provides the complete creative toolkit needed to bring imaginative concepts to life with professional polish and artistic freedom, making advanced digital creation accessible to everyone from hobbyists to professional designers working in mobile-first environments.",
+    "size": 267,
+    "reviews": 18900,
+    "ratingAvg": 4.7,
+    "downloads": 3.8,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 1890 },
+      { "name": "4 star", "count": 5670 },
+      { "name": "5 star", "count": 10770 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=400&h=300&fit=crop",
+    "title": "Smart Home Controller",
+    "companyName": "HomeTech Solutions",
+    "id": 7,
+    "description": "This intelligent home automation platform transforms living spaces into responsive environments that anticipate needs, optimize energy usage, and enhance security through seamless integration of diverse smart devices and systems. Rather than simply providing remote control of individual devices, it creates unified automation scenarios that coordinate lighting, climate, entertainment, and security systems based on daily routines, presence detection, and environmental conditions. Users can create custom scenes for different activities—such as morning routines, entertainment evenings, or vacation modes—that adjust multiple systems with single commands or automated triggers.\n\nThe platform's most advanced feature is its machine learning capability that studies household patterns over time to suggest optimizations that improve comfort while reducing energy consumption. The security module provides comprehensive monitoring with smart camera analysis, anomaly detection, and emergency response coordination, sending intelligent alerts that distinguish between normal activity and potential security concerns. Energy management tools track consumption patterns, identify inefficient devices, and automate temperature adjustments and lighting schedules to minimize environmental impact and utility costs.\n\nVoice control integration works across major voice assistant platforms while maintaining consistent command structures and reliable performance. The universal compatibility system supports thousands of devices from different manufacturers through standardized protocols and custom integrations, eliminating the frustration of incompatible ecosystems. Remote access features ensure complete home control from anywhere with robust security encryption protecting all communications. Family sharing allows customized access levels for different household members while maintaining overall administrative control. Whether managing a single smart device or coordinating a whole-home automation system, this application provides the centralized intelligence, intuitive control, and proactive automation needed to create truly smart living environments that enhance convenience, security, and efficiency in modern connected homes.",
+    "size": 156,
+    "reviews": 24300,
+    "ratingAvg": 4.5,
+    "downloads": 4.9,
+    "ratings": [
+      { "name": "1 star", "count": 370 },
+      { "name": "2 star", "count": 730 },
+      { "name": "3 star", "count": 2430 },
+      { "name": "4 star", "count": 7290 },
+      { "name": "5 star", "count": 13480 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400&h=300&fit=crop",
+    "title": "Travel Explorer Pro",
+    "companyName": "Wanderlust Technologies",
+    "id": 8,
+    "description": "This comprehensive travel platform reimagines trip planning by combining artificial intelligence, local expertise, and real-time data to create personalized travel experiences that transcend typical tourist itineraries. Rather than simply aggregating flight and hotel options, it builds complete journey narratives that consider personal interests, travel style, budget constraints, and seasonal factors to recommend destinations, activities, and accommodations that match individual preferences. The application manages entire trip ecosystems including transportation bookings, accommodation reservations, activity scheduling, and contingency planning with seamless coordination across all travel components.\n\nThe platform's most distinctive feature is its local insight engine that surfaces authentic experiences, hidden gems, and cultural opportunities typically known only to residents, using data from local experts and seasoned travelers rather than relying solely on tourist reviews. The real-time assistance module provides live updates on flight status, weather conditions, local events, and potential disruptions with proactive alternative suggestions. Offline functionality ensures access to crucial information, maps, and reservations even without internet connectivity in remote destinations.\n\nBudget tracking tools monitor expenses in multiple currencies, compare costs against initial estimates, and suggest adjustments to stay within financial plans. The collaboration system allows trip planning with travel companions, with shared itineraries, expense splitting, and group decision features. Safety features include emergency contact integration, medical information storage, and location sharing with trusted contacts. Post-trip, the application creates digital travel journals with automatically organized photos, location data, and personal notes. Whether planning spontaneous weekend getaways, complex multi-destination adventures, or meticulously organized business trips, this platform serves as a complete travel companion that reduces planning stress, enhances experiences, and creates memorable journeys tailored precisely to individual travel personalities and objectives.",
+    "size": 178,
+    "reviews": 19600,
+    "ratingAvg": 4.8,
+    "downloads": 5.4,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 1960 },
+      { "name": "4 star", "count": 5880 },
+      { "name": "5 star", "count": 11270 }
     ]
   }
 ]
